@@ -3,11 +3,9 @@ table, td, tr {
     border-collapse: collapse;
     width: 25%;
     padding: 2px 0;
-    /* border-bottom: 0px; */
+    
 }
-/* table tr:last-child{
-    border-bottom: 1px solid black;
-} */
+
 .name{
     width: 40%;
 }
